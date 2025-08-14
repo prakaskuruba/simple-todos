@@ -7,35 +7,35 @@ import './index.css'
 const initialTodosList = [
   {
     id: 1,
-    title: 'Book the ticket for today evening',
+    title: 'HTML',
   },
   {
     id: 2,
-    title: 'Rent the movie for tomorrow movie night',
+    title: 'CSS',
   },
   {
     id: 3,
-    title: 'Confirm the slot for the yoga session tomorrow morning',
+    title: 'jAVASCRIPT',
   },
   {
     id: 4,
-    title: 'Drop the parcel at Bloomingdale',
+    title: 'REACT',
   },
   {
     id: 5,
-    title: 'Order fruits on Big Basket',
+    title: 'BOOTSTRAP',
   },
   {
     id: 6,
-    title: 'Fix the production issue',
+    title: 'JAVA',
   },
   {
     id: 7,
-    title: 'Confirm my slot for Saturday Night',
+    title: 'SQL',
   },
   {
     id: 8,
-    title: 'Get essentials for Sunday car wash',
+    title: 'DSA',
   },
 ]
 
